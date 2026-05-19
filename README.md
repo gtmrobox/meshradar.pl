@@ -23,15 +23,6 @@ Mesh Radar collects, decrypts and visualizes packets from the Meshtastic mesh ne
 - **Meshtastic:** official `meshtastic` Python library + protobuf definitions
 - **Frontend:** Vanilla JS, Leaflet 1.9.4, Socket.IO
 
-## MQTT Sources
-
-| Broker | Region |
-|--------|--------|
-| loranet.pl | Poland — all channel speeds |
-| mqtt.meshtastic.org | Poland, Belarus, Russia, Lithuania |
-| mqtt.meshtastic.liamcottle.net | Poland, Belarus, Russia, Europe |
-| localhost | Local node gateway |
-
 ---
 
 > This project is not affiliated with the official Meshtastic project. Live instance: [meshradar.pl](https://meshradar.pl)
