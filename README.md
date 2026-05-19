@@ -12,6 +12,7 @@ Mesh Radar collects, decrypts and visualizes packets from the Meshtastic mesh ne
 - **Node detail panel** — neighbors, RF links, telemetry (battery, voltage, environment), recent messages
 - **AES decryption** of Meshtastic encrypted packets
 - **Redis cache** — all API endpoints cached, zero DB reads on repeated requests
+- **Tropospheric ducting overlay** — interactive map showing propagation potential at 869 MHz, based on atmospheric data from Open-Meteo (GFS model), updated every 6 hours
 - **PWA** — installable on mobile
 
 ## Tech Stack
