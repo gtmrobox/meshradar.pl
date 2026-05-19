@@ -10,7 +10,6 @@ Mesh Radar collects, decrypts and visualizes packets from the Meshtastic mesh ne
 
 - **Live map** with Leaflet.js + MarkerCluster — nodes update in real time via WebSocket
 - **Node detail panel** — neighbors, RF links, telemetry (battery, voltage, environment), recent messages
-- **Multi-broker collection** — loranet.pl, mqtt.meshtastic.org, liamcottle.net mirror, local broker
 - **AES decryption** of Meshtastic encrypted packets
 - **Redis cache** — all API endpoints cached, zero DB reads on repeated requests
 - **PWA** — installable on mobile
