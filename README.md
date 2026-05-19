@@ -17,8 +17,8 @@ Mesh Radar collects, decrypts and visualizes packets from the Meshtastic mesh ne
 
 ## Tech Stack
 
-- **Backend:** Python 3, Flask, gevent, Flask-SocketIO, paho-mqtt
-- **Database:** MariaDB 10.11
+- **Backend:** Python
+- **Database:** MariaDB
 - **Cache / Pub-Sub:** Redis
 - **Meshtastic:** official `meshtastic` Python library + protobuf definitions
 - **Frontend:** Vanilla JS, Leaflet 1.9.4, Socket.IO
