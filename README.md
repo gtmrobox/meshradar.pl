@@ -2,6 +2,8 @@
 
 **meshradar.pl** — Real-time map and monitoring dashboard for the Meshtastic LoRa mesh network, focused on Poland and Central/Eastern Europe.
 
+![Mesh Radar screenshot](https://meshradar.pl/assets/social_1280.webp)
+
 ## Overview
 
 Mesh Radar collects, decrypts and visualizes packets from the Meshtastic mesh network in real time. It aggregates data from multiple MQTT brokers and serves it to a live web map with WebSocket updates.
